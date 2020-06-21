@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main(){ \\RANDOM
 int x,y;
 x=10;
